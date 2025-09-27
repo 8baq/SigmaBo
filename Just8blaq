@@ -1,6 +1,6 @@
 getgenv().KickPlayer = {
     Kick = {
-        Enabled = true
+        Enabled = false
     }
 }
 
