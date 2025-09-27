@@ -1,0 +1,9 @@
+getgenv().KickPlayer = {
+    Kick = {
+        Enabled = true
+    }
+}
+
+if getgenv().KickPlayer.Kick.Enabled then
+    game.Players.LocalPlayer:Kick("nice try skid LMAO")
+end
